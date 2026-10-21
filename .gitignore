@@ -27,3 +27,8 @@ Thumbs.db
 
 # VC Code
 .vscode/
+
+# Local dependencies, caches, and credentials
+.env.*
+!.env.example
+!.env.sample
